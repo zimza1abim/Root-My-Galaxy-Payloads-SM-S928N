@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 3,
+  "payloads": [
+    {
+      "payloadId": "e3q-S928NKSU6EZIF-v1.2",
+      "payloadVersion": "1.2",
+      "displayName": "Galaxy S24 Ultra SM-S928N | EZIF v1.2",
+      "models": [
+        "SM-S928N"
+      ],
+      "kernelVersions": [
+        "6.1.162",
+        "6.1.162-android14-11-34343818-abS928NKSU6EZIF"
+      ],
+      "exactKernelRelease": "6.1.162-android14-11-34343818-abS928NKSU6EZIF",
+      "exactBuildId": "CP2A.260605.016.S928NKSU6EZIF",
+      "exactFingerprint": "samsung/e3qksx/e3q:17/CP2A.260605.016/S928NKSU6EZIF:user/release-keys",
+      "exactAndroidRelease": "17",
+      "exactSdk": 37,
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N/main/artifacts/e3q-S928NKSU6EZIF/cve-2026-43499-app.so",
+        "size": 104128,
+        "sha256": "787762ec72f98a1c0fa9f1bda98abc0b97008cf261579d39ae35a7f623a9f5c1"
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N/main/kernelsu/ksud-e3q-S928NKSU6EZIF-kdp",
+        "size": 4882688,
+        "sha256": "248725370336cd1557503a6ba525e34969b9b922bedc63f43290efc349d7b874",
+        "version": "3.2.5"
+      },
+      "flavor": "kernelsu"
+    }
+  ]
+}
